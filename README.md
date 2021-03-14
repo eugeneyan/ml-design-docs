@@ -43,7 +43,7 @@ What machine learning techniques will you use? How will you clean and prepare th
 
 How will you validate your approach offline? What offline evaluation metrics will you use?
 
-If you're A/B testing, how will you assign treatment and control (e.g., customer vs. session-based) and what metrics will you measure? What are the success and guardrail metrics?
+If you're A/B testing, how will you assign treatment and control (e.g., customer vs. session-based) and what metrics will you measure? What are the success and [guardrail](https://medium.com/airbnb-engineering/designing-experimentation-guardrails-ed6a976ec669) metrics?
 
 ### 5.5. Human-in-the-loop
 
@@ -113,3 +113,4 @@ Define and link to business or technical terms.
 ### 7.6. References
 
 Add references that you might have consulted for your methodology.
+eueueueueeuaoeuueoaue
