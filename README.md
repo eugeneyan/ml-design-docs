@@ -2,7 +2,7 @@
 
 A template for design docs for machine learning systems based on this [post](https://eugeneyan.com/writing/ml-design-docs/).
 
-Note: This template is a guideline / checklist and is **not meant to exhaustive**. The intent of the design doc is to help you think better (about the problem and design) and get feedback. Adopt whichever sections—and add new sections—to meet this goal.
+Note: This template is a guideline / checklist and is **not meant to exhaustive**. The intent of the design doc is to help you think better (about the problem and design) and get feedback. Adopt whichever sections—and add new sections—to meet this goal. View other templates, examples [here](#other-templates-examples-etc).
 
 ---
 ## 1. Overview
@@ -113,4 +113,11 @@ Define and link to business or technical terms.
 ### 7.6. References
 
 Add references that you might have consulted for your methodology.
-eueueueueeuaoeuueoaue
+
+---
+## Other templates, examples, etc
+- [A Software Design Doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [Product Spec of Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.554u12gw2xpd)
+
+Contributions [welcome](https://github.com/eugeneyan/ml-design-docs/pulls)!
