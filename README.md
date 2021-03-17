@@ -16,7 +16,7 @@ Why the problem is important to solve, and why now.
 Usually framed as business goals, such as increased customer engagement (e.g., CTR, DAU), revenue, or reduced cost.
 
 ## 4. Requirements & Constraints
-Functional requirements are those that should be met to ship the project. They should be described in terms of the customer perspective and benefit. 
+Functional requirements are those that should be met to ship the project. They should be described in terms of the customer perspective and benefit. (See [this](https://eugeneyan.com/writing/ml-design-docs/#the-why-and-what-of-design-docs) for more details.)
 
 Non-functional/technical requirements are those that define system quality and how the system should be implemented. These include performance (throughput, latency, error rates), cost (infra cost, ops effort), security, data privacy, etc.
 
@@ -71,11 +71,11 @@ How will your system/application authenticate users and incoming requests? If it
 
 ### 6.5. Data privacy
 
-How will you ensure the privacy of customer data? Will your system be compliant with data retention and deletion policies (e.g., [GDPR](https://gdpr.eu/what-is-gdpr/)?
+How will you ensure the privacy of customer data? Will your system be compliant with data retention and deletion policies (e.g., [GDPR](https://gdpr.eu/what-is-gdpr/))?
 
 ### 6.6. Monitoring & Alarms
 
-What metrics will you monitor and how? Will you have alarms if a metric breaches a threshold or something else goes wrong?
+How will you log events in your system? What metrics will you monitor and how? Will you have alarms if a metric breaches a threshold or something else goes wrong?
 
 ### 6.7. Cost
 How much will it cost to build and operate your system? Share estimated monthly costs (e.g., EC2 instances, Lambda, etc.)
@@ -119,5 +119,6 @@ Add references that you might have consulted for your methodology.
 - [A Software Design Doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [Product Spec of Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.554u12gw2xpd)
+- [Design Documents for Chromium](https://www.chromium.org/developers/design-documents)
 
 Contributions [welcome](https://github.com/eugeneyan/ml-design-docs/pulls)!
