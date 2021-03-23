@@ -120,5 +120,8 @@ Add references that you might have consulted for your methodology.
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [Product Spec of Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.554u12gw2xpd)
 - [Design Documents for Chromium](https://www.chromium.org/developers/design-documents)
+- HashiCorp [PRD Template](https://works.hashicorp.com/articles/prd-template) and [RFC Template](https://works.hashicorp.com/articles/rfc-template) (example RFC: [Manager Charter](https://works.hashicorp.com/articles/manager-charter))
+- [Basecamp's pitch for To-Do Groups and Group Notifications](https://basecamp.com/shapeup/1.5-chapter-06#examples)
+
 
 Contributions [welcome](https://github.com/eugeneyan/ml-design-docs/pulls)!
