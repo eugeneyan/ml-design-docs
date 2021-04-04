@@ -122,6 +122,7 @@ Add references that you might have consulted for your methodology.
 - [Design Documents for Chromium](https://www.chromium.org/developers/design-documents)
 - HashiCorp [PRD Template](https://works.hashicorp.com/articles/prd-template) and [RFC Template](https://works.hashicorp.com/articles/rfc-template) (example RFC: [Manager Charter](https://works.hashicorp.com/articles/manager-charter))
 - [Basecamp's pitch for To-Do Groups and Group Notifications](https://basecamp.com/shapeup/1.5-chapter-06#examples)
+- [The Anatomy of an Amazon 6-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9) and an [example](https://docs.google.com/document/d/1LPh1LWx1z67YFo67DENYUGBaoKk39dtX7rWAeQHXzhg/edit)
 
 
 Contributions [welcome](https://github.com/eugeneyan/ml-design-docs/pulls)!
