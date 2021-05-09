@@ -86,7 +86,7 @@ How will your system integrate with upstream data and downstream users?
 
 ### 6.9. Risks & Uncertainties
 
-Risks are the unknown unknowns; uncertainies are the unknown unknows. What worries you and you would like others to review?
+Risks are the known unknowns; uncertainties are the unknown unknows. What worries you and you would like others to review?
 
 ## 7. Appendix
 
