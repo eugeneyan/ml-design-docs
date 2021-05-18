@@ -29,7 +29,7 @@ Some problems are too big to solve all at once. Be clear about what's out of sco
 
 ### 5.1. Problem statement
 
-How will you frame the problem? For example, fraud detection can be framed as an unsupervised (outlier detection, graph cluster) or supervised problem (e.g. classification).
+How will you frame the problem? For example, fraud detection can be framed as an unsupervised (outlier detection, graph cluster) or supervised problem (e.g., classification).
 
 ### 5.2. Data
 
@@ -47,7 +47,7 @@ If you're A/B testing, how will you assign treatment and control (e.g., customer
 
 ### 5.5. Human-in-the-loop
 
-How will you incorporate human intevention into your ML system (e.g., product/customer exclusion lists)?
+How will you incorporate human intervention into your ML system (e.g., product/customer exclusion lists)?
 
 ## 6. Implementation
 
@@ -67,7 +67,7 @@ How will your system meet the throughput and latency requirements? Will it scale
 
 ### 6.4. Security
 
-How will your system/application authenticate users and incoming requests? If its publicly accessible, will it be behind a firewall?
+How will your system/application authenticate users and incoming requests? If it's publicly accessible, will it be behind a firewall?
 
 ### 6.5. Data privacy
 
